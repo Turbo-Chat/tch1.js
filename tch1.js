@@ -26,7 +26,10 @@
  * 
  * Customization:
  *   You can modify the transformation rules, salt generation, and hashing rounds as needed.
+ * Disclaimer
+ * This is not an official hash creator. This is JUST FOR DEVELOPER USE ONLY. For more secure options, use official hash languages.
  */
+
 
 // IIFE to encapsulate the TCH1 module
 (function (global) {
